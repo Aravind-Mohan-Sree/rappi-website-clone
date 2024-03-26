@@ -24,6 +24,7 @@ body {
 
 .promo-bar {
   position: fixed;
+  background-color: var(--azure-radiance);
   font-size: 14px;
   letter-spacing: 0.1px;
   width: 419px;
@@ -557,4 +558,3 @@ body {
   font-size: 14px;
   font-weight: 100;
 }
-
